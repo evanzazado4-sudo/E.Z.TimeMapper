@@ -105,4 +105,145 @@
     <media>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg/480px-David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg</media>
   </event>
  </track>
+ <track type="4" name="soviet-firsts">
+  <event>
+    <title>Sputnik 1 launched</title>
+    <date type="start">
+      <year>1957</year>
+      <month>10</month>
+      <day>04</day>
+      <era>AD</era>
+    </date>
+    <date type="end">
+      <year>1958</year>
+      <month>01</month>
+      <day>04</day>
+      <era>AD</era>
+    </date>
+    <description>The Soviet Union launched the first artificial satellite from Baikonur, beginning the Space Race.</description>
+    <lat>45.9202</lat>
+    <lon>63.3423</lon>
+    <media>https://www.nasa.gov/image-article/oct-4-1957-sputnik-dawn-of-space-age</media>
+  </event>
+
+  <event>
+    <title>Yuri Gagarin becomes the first human in space</title>
+    <date type="start">
+      <year>1961</year>
+      <month>04</month>
+      <day>12</day>
+      <era>AD</era>
+    </date>
+    <description>Gagarin orbited the Earth once aboard Vostok 1, landing near Smelovka in the Saratov region.</description>
+    <lat>51.2707</lat>
+    <lon>45.9973</lon>
+    <media>https://en.wikipedia.org/wiki/Vostok_1</media>
+  </event>
+ </track>
+
+ <track type="5" name="american-response">
+  <event>
+    <title>Explorer 1 launched</title>
+    <date type="start">
+      <year>1958</year>
+      <month>01</month>
+      <day>31</day>
+      <era>AD</era>
+    </date>
+    <date type="end">
+      <year>1970</year>
+      <month>03</month>
+      <day>31</day>
+      <era>AD</era>
+    </date>
+    <description>America's first satellite launched from Cape Canaveral and discovered the Van Allen radiation belts.</description>
+    <lat>28.4442</lat>
+    <lon>-80.5714</lon>
+    <media>https://www.nasa.gov/mission/explorer-1</media>
+  </event>
+
+  <event>
+    <title>Apollo 11 lands the first humans on the Moon</title>
+    <date type="start">
+      <year>1969</year>
+      <month>07</month>
+      <day>16</day>
+      <era>AD</era>
+    </date>
+    <date type="end">
+      <year>1969</year>
+      <month>07</month>
+      <day>24</day>
+      <era>AD</era>
+    </date>
+    <description>Armstrong and Aldrin became the first humans on the Moon after launching from Kennedy Space Center.</description>
+    <lat>28.6083</lat>
+    <lon>-80.6044</lon>
+    <media>https://www.nasa.gov/missions/apollo/apollo-11/apollo-11-mission-overview/</media>
+  </event>
+ </track>
+
+ <track type="6" name="divided-berlin">
+  <event>
+    <title>Construction of the Berlin Wall begins</title>
+    <date type="start">
+      <year>1961</year>
+      <month>08</month>
+      <day>13</day>
+      <era>AD</era>
+    </date>
+    <date type="end">
+      <year>1989</year>
+      <month>11</month>
+      <day>09</day>
+      <era>AD</era>
+    </date>
+    <description>East German troops and border police sealed the border between East and West Berlin, first with barbed wire and later with a fortified wall. The division lasted 28 years.</description>
+    <lat>52.5353</lat>
+    <lon>13.3903</lon>
+    <media>https://www.bundesregierung.de/breg-en/issues/construction-berlin-wall-1777024</media>
+  </event>
+
+  <event>
+    <title>Fall of the Berlin Wall</title>
+    <date type="start">
+      <year>1989</year>
+      <month>11</month>
+      <day>09</day>
+      <era>AD</era>
+    </date>
+    <date type="end">
+      <year>1990</year>
+      <month>10</month>
+      <day>03</day>
+      <era>AD</era>
+    </date>
+    <description>After an announcement that travel rules were being relaxed, crowds gathered at the Bornholmer Straße crossing, the first to open that night. Germany was formally reunified on 3 October 1990.</description>
+    <lat>52.5547</lat>
+    <lon>13.3968</lon>
+    <media>https://en.wikipedia.org/wiki/Bornholmer_Stra%C3%9Fe_border_crossing</media>
+  </event>
+ </track>
+
+ <track type="7" name="cooperation">
+  <event>
+    <title>Apollo-Soyuz handshake in space</title>
+    <date type="start">
+      <year>1975</year>
+      <month>07</month>
+      <day>17</day>
+      <era>AD</era>
+    </date>
+    <date type="end">
+      <year>1975</year>
+      <month>07</month>
+      <day>19</day>
+      <era>AD</era>
+    </date>
+    <description>Apollo and Soyuz docked in Earth orbit and the crews shook hands, with the mission guided from Houston.</description>
+    <lat>29.5581</lat>
+    <lon>-95.0883</lon>
+    <media>https://www.nasa.gov/history/45-years-ago-historic-handshake-in-space/</media>
+  </event>
+ </track>
 </events>
